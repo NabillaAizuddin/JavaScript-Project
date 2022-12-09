@@ -1,4 +1,4 @@
-# JavaScript-Project
+# JavaScript Project
 
 + I've made a fully functioning tic-tac-toe game using JavaSript!
  
